@@ -5,7 +5,6 @@ use 5.008_005;
 1;
 __END__
  
-Hide 201 lines of Pod
 =head1 NAME
  
   MongoHosting   deploy MongoDB shared cluster in the cloud at linode or digitalocean 
@@ -46,12 +45,6 @@ Hide 201 lines of Pod
   db.exampleCollection.findOne()
 
 
-=head1 AVAILABILITY
- 
-Carton only works with perl installation with the complete set of core
-modules. If you use perl installed by a vendor package with modules
-stripped from core, Carton is not expected to work correctly.
- 
  
 =head1 DESCRIPTION
  
